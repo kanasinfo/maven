@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 09:29:08 CST 2017
+javassist-3.12.0.GA.pom>central=
+javassist-3.12.0.GA-sources.jar>central=
+javassist-3.12.0.GA.pom>nexus-aliyun=
+javassist-3.12.0.GA.jar>nexus-aliyun=
+javassist-3.12.0.GA.jar>central=

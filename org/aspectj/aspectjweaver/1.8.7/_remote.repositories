@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 30 15:39:56 CST 2017
+aspectjweaver-1.8.7.jar>nexus-aliyun=
+aspectjweaver-1.8.7.jar>central=
+aspectjweaver-1.8.7.pom>central=
+aspectjweaver-1.8.7-sources.jar>central=
+aspectjweaver-1.8.7-javadoc.jar>central=
+aspectjweaver-1.8.7.pom>nexus-aliyun=

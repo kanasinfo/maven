@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Apr 09 16:06:35 CST 2017
+org.eclipse.sisu.plexus-0.0.0.M5.jar>nexus-aliyun=
+org.eclipse.sisu.plexus-0.0.0.M5.jar>central=
+org.eclipse.sisu.plexus-0.0.0.M5.pom>central=
+org.eclipse.sisu.plexus-0.0.0.M5.pom>nexus-aliyun=

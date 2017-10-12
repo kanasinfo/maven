@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 10:09:01 CST 2017
+poi-3.13-javadoc.jar>central=
+poi-3.13-sources.jar>central=
+poi-3.13.jar>central=
+poi-3.13.pom>central=
+poi-3.13.pom>nexus-aliyun=
+poi-3.13.jar>nexus-aliyun=

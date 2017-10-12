@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 10:09:07 CST 2017
+aspectjrt-1.8.6.pom>nexus-aliyun=
+aspectjrt-1.8.6.jar>nexus-aliyun=
+aspectjrt-1.8.6-sources.jar>central=
+aspectjrt-1.8.6-javadoc.jar>central=
+aspectjrt-1.8.6.jar>central=
+aspectjrt-1.8.6.pom>central=

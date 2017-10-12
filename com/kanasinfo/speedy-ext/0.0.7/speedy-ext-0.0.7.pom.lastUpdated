@@ -1,12 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Sep 08 14:06:19 CST 2017
+#Fri Sep 08 14:11:55 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1504851111681
 https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
-http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1504850705103
-http\://repo.maven.apache.org/maven2/.lastUpdated=1504850704390
-https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1504850705857
-https\://raw.github.com/kanasinfo/maven/master/.lastUpdated=1504850779801
-http\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504851115388
 http\://dl.bintray.com/kotlin/kotlin-dev/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1504850707039
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1504851114384
+http\://repo.maven.apache.org/maven2/.error=
+http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1504851112275
 https\://repo.maven.apache.org/maven2/.error=
-https\://raw.github.com/kanasinfo/maven/master/.error=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jun 24 09:47:35 CST 2017
+@default-apache-plugin-http\://repo.maven.apache.org/maven2/.lastUpdated=1498268793693
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jetbrains.kotlin\:kotlin-compiler\:jar\:1.1.3 from/to apache-plugin (http\://repo.maven.apache.org/maven2)\: Connection reset
+http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1498268855089

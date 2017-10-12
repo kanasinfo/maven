@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 28 10:29:56 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1503887396794
+http\://dl.bintray.com/kotlin/kotlin-dev/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1503475431405
+http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1503475352441
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.webjars\:bootstrap\:jar\:javadoc\:3.3.7 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.52.215] failed\: Operation timed out (Connection timed out)

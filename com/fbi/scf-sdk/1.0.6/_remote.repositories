@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 10:35:22 CST 2017
+scf-sdk-1.0.6.jar>=
+scf-sdk-1.0.6-sources.jar>=
+scf-sdk-1.0.6.pom>=

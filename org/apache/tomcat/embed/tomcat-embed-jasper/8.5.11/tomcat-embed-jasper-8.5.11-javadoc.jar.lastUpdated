@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 12 00:35:26 CST 2017
+https\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1497247530393
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
+http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1507739724537
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1507739725312
+https\://dl.bintray.com/kotlin/kotlin-dev/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-jasper\:jar\:javadoc\:8.5.11 from/to apache (http\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:80 [repo.maven.apache.org/151.101.52.215] failed\: Operation timed out (Connection timed out)
+http\://dl.bintray.com/kotlin/kotlin-dev/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1507739726548
+https\://repo.maven.apache.org/maven2/.error=
+@default-apache-http\://repo.maven.apache.org/maven2/.lastUpdated=1507739723809

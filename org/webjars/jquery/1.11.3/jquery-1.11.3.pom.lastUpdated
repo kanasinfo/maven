@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 23 15:58:02 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1503475082035
+http\://dl.bintray.com/kotlin/kotlin-dev/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1503475047578
+http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1503474971870
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.webjars\:jquery\:pom\:1.11.3 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.52.215] failed\: Operation timed out (Connection timed out)

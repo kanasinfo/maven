@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 30 15:37:18 CST 2017
+postgresql-9.4.1212.pom>nexus-aliyun=
+postgresql-9.4.1212.jar>nexus-aliyun=
+postgresql-9.4.1212.jar>central=
+postgresql-9.4.1212.pom>central=
+postgresql-9.4.1212-sources.jar>central=
+postgresql-9.4.1212-javadoc.jar>central=

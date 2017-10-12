@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 12 10:26:11 CST 2017
+sisu-inject-bean-2.3.0.pom>apache-plugin=
+sisu-inject-bean-2.3.0.pom>nexus-aliyun=
+sisu-inject-bean-2.3.0.jar>apache-plugin=
+sisu-inject-bean-2.3.0.jar>nexus-aliyun=

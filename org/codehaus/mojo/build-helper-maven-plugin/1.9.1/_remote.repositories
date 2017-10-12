@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 01 12:39:28 CST 2017
+build-helper-maven-plugin-1.9.1.jar>nexus-aliyun=
+build-helper-maven-plugin-1.9.1.pom>central=
+build-helper-maven-plugin-1.9.1.pom>nexus-aliyun=
+build-helper-maven-plugin-1.9.1.jar>central=

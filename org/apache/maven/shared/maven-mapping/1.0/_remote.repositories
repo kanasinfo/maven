@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Apr 09 16:06:38 CST 2017
+maven-mapping-1.0.pom>nexus-aliyun=
+maven-mapping-1.0.jar>nexus-aliyun=
+maven-mapping-1.0.jar>central=
+maven-mapping-1.0.pom>central=

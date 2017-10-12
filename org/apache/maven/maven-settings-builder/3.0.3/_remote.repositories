@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Mar 18 12:38:14 CST 2017
+maven-settings-builder-3.0.3.pom>nexus-aliyun=
+maven-settings-builder-3.0.3.jar>nexus-aliyun=
+maven-settings-builder-3.0.3.jar>central=
+maven-settings-builder-3.0.3.pom>central=

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 10:09:13 CST 2017
+cglib-2.2.jar>nexus-aliyun=
+cglib-2.2.jar>central=
+cglib-2.2.pom>central=
+cglib-2.2-sources.jar>central=
+cglib-2.2-javadoc.jar>central=
+cglib-2.2.pom>nexus-aliyun=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 01 12:40:05 CST 2017
+maven-reporting-exec-1.2.pom>nexus-aliyun=
+maven-reporting-exec-1.2.jar>nexus-aliyun=
+maven-reporting-exec-1.2.jar>central=
+maven-reporting-exec-1.2.pom>central=

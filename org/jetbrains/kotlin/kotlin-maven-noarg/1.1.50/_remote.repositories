@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 25 16:37:37 CST 2017
+kotlin-maven-noarg-1.1.50.jar>apache-plugin=
+kotlin-maven-noarg-1.1.50.jar>=
+kotlin-maven-noarg-1.1.50.pom>apache-plugin=

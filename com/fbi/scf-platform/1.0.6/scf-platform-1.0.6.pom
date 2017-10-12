@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.fbi</groupId>
+    <artifactId>scf-platform</artifactId>
+    <version>1.0.6</version>
+    <modules>
+        <module>scf-webapp</module>
+        <module>scf-sdk-jml</module>
+        <module>scf-utils</module>
+        <module>scf-sdk</module>
+    </modules>
+    <packaging>pom</packaging>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <id>bonecp-repo</id>
+            <name>BoneCP Repository</name>
+            <url>http://jolbox.com/bonecp/downloads/maven</url>
+        </repository>
+        <repository>
+            <id>mlht-lib</id>
+            <name>mlht-lib-repository</name>
+            <url>http://nexus.fbi-china.com/repository/mlht-lib/</url>
+        </repository>
+    </repositories>
+
+    <!--私服发布地址-->
+    <distributionManagement>
+        <repository>
+            <id>mlht-lib</id>
+            <url>http://nexus.fbi-china.com/repository/mlht-lib/</url>
+        </repository>
+    </distributionManagement>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>2.3.2</version>
+                <configuration>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

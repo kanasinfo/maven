@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 25 11:11:22 CST 2017
+fast-classpath-scanner-2.6.2.jar>apache=
+fast-classpath-scanner-2.6.2-javadoc.jar>apache=
+fast-classpath-scanner-2.6.2-sources.jar>apache=
+fast-classpath-scanner-2.6.2.pom>apache=

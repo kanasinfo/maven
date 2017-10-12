@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 03 10:18:43 CST 2017
+kotlin-maven-allopen-1.1.51.jar>=
+kotlin-maven-allopen-1.1.51.pom>apache-plugin=
+kotlin-maven-allopen-1.1.51.jar>apache-plugin=

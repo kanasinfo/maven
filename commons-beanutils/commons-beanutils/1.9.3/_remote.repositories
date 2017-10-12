@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 18 15:19:36 CST 2017
+commons-beanutils-1.9.3.jar>central=
+commons-beanutils-1.9.3.pom>central=
+commons-beanutils-1.9.3.pom>nexus-aliyun=
+commons-beanutils-1.9.3.jar>nexus-aliyun=
+commons-beanutils-1.9.3-javadoc.jar>central=
+commons-beanutils-1.9.3-sources.jar>central=

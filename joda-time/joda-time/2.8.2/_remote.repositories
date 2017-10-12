@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 09:29:44 CST 2017
+joda-time-2.8.2.jar>central=
+joda-time-2.8.2.jar>nexus-aliyun=
+joda-time-2.8.2.pom>central=
+joda-time-2.8.2-javadoc.jar>central=
+joda-time-2.8.2-sources.jar>central=
+joda-time-2.8.2.pom>nexus-aliyun=

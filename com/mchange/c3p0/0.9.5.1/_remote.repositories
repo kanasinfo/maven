@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 10:08:33 CST 2017
+c3p0-0.9.5.1.pom>nexus-aliyun=
+c3p0-0.9.5.1.jar>nexus-aliyun=
+c3p0-0.9.5.1.jar>central=
+c3p0-0.9.5.1-javadoc.jar>central=
+c3p0-0.9.5.1-sources.jar>central=
+c3p0-0.9.5.1.pom>central=

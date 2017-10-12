@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 11 23:27:51 CST 2017
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
+http\://dl.bintray.com/kotlin/kotlin-dev/.error=
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1507735661211
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.webjars.bower\:moment\:pom\:0.5.13 from/to apache (http\://repo.maven.apache.org/maven2)\: connect timed out
+@default-apache-http\://repo.maven.apache.org/maven2/.lastUpdated=1507735658668
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1507735671219
+http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1507735660094
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.webjars.bower\:moment\:pom\:0.5.13 from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out

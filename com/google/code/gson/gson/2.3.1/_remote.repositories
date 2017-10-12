@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 30 15:40:36 CST 2017
+gson-2.3.1.jar>central=
+gson-2.3.1.pom>nexus-aliyun=
+gson-2.3.1.pom>central=
+gson-2.3.1.jar>nexus-aliyun=
+gson-2.3.1-javadoc.jar>central=
+gson-2.3.1-sources.jar>central=

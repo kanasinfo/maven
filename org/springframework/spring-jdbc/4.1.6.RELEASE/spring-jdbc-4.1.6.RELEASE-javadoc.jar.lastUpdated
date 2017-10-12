@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 10:07:52 CST 2017
+https\://raw.githubusercontent.com/gefangshuai/maven/master/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1492654072287
+https\://raw.githubusercontent.com/gefangshuai/maven/master/.lastUpdated=1492654072811
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-jdbc\:jar\:javadoc\:4.1.6.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: org/springframework/spring-jdbc/4.1.6.RELEASE/spring-jdbc-4.1.6.RELEASE-javadoc.jar from central failed

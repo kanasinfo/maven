@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 01 12:39:27 CST 2017
+xml-resolver-1.2.jar>nexus-aliyun=
+xml-resolver-1.2.jar>central=
+xml-resolver-1.2.pom>central=
+xml-resolver-1.2.pom>nexus-aliyun=

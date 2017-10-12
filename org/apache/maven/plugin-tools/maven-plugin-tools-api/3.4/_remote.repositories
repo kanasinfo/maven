@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Apr 01 14:13:38 CST 2017
+maven-plugin-tools-api-3.4.jar>nexus-aliyun=
+maven-plugin-tools-api-3.4.jar>central=
+maven-plugin-tools-api-3.4.pom>central=
+maven-plugin-tools-api-3.4.pom>nexus-aliyun=

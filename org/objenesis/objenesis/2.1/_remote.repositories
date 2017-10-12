@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed May 24 10:21:12 CST 2017
+objenesis-2.1.pom>nexus-aliyun=
+objenesis-2.1.jar>central=
+objenesis-2.1.jar>nexus-aliyun=
+objenesis-2.1.pom>central=
+objenesis-2.1.pom>apache=
+objenesis-2.1.jar>apache=
+objenesis-2.1-javadoc.jar>central=
+objenesis-2.1-sources.jar>central=

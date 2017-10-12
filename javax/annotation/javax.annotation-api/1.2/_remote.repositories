@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Apr 01 14:13:38 CST 2017
+javax.annotation-api-1.2.jar>central=
+javax.annotation-api-1.2.pom>central=
+javax.annotation-api-1.2.pom>nexus-aliyun=
+javax.annotation-api-1.2.jar>nexus-aliyun=

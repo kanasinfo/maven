@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 12 19:17:02 CST 2017
+annotations-13.0.jar>nexus-aliyun=
+annotations-13.0.pom>apache=
+annotations-13.0-javadoc.jar>apache=
+annotations-13.0.pom>apache-plugin=
+annotations-13.0-javadoc.jar>nexus-aliyun=
+annotations-13.0.jar>apache=
+annotations-13.0-sources.jar>apache=
+annotations-13.0.jar>apache-plugin=
+annotations-13.0-sources.jar>nexus-aliyun=
+annotations-13.0.pom>nexus-aliyun=

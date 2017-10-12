@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 12 15:33:30 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1497252810258
+https\://raw.githubusercontent.com/gefangshuai/maven/master/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1492615691954
+https\://raw.githubusercontent.com/gefangshuai/maven/master/.lastUpdated=1492615693467
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact log4j\:log4j\:jar\:javadoc\:1.2.16 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: log4j/log4j/1.2.16/log4j-1.2.16-javadoc.jar from central failed

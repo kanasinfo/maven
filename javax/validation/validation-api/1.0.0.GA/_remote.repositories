@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 10:09:12 CST 2017
+validation-api-1.0.0.GA-sources.jar>central=
+validation-api-1.0.0.GA.jar>central=
+validation-api-1.0.0.GA-javadoc.jar>central=
+validation-api-1.0.0.GA.pom>central=
+validation-api-1.0.0.GA.pom>nexus-aliyun=
+validation-api-1.0.0.GA.jar>nexus-aliyun=

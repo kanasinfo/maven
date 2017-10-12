@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 11 12:04:33 CST 2017
+asm-tree-3.2.jar>central=
+asm-tree-3.2.pom>central=
+asm-tree-3.2.pom>nexus-aliyun=
+asm-tree-3.2.jar>nexus-aliyun=

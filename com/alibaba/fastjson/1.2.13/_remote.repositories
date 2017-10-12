@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Mar 18 15:28:52 CST 2017
+fastjson-1.2.13.jar>central=
+fastjson-1.2.13.pom>central=
+fastjson-1.2.13.pom>nexus-aliyun=
+fastjson-1.2.13.jar>nexus-aliyun=

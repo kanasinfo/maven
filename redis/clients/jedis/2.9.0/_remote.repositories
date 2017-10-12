@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 18 15:20:26 CST 2017
+jedis-2.9.0-javadoc.jar>central=
+jedis-2.9.0.pom>nexus-aliyun=
+jedis-2.9.0.jar>central=
+jedis-2.9.0-sources.jar>central=
+jedis-2.9.0.pom>central=
+jedis-2.9.0.jar>nexus-aliyun=

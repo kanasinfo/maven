@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 01 12:39:16 CST 2017
+snakeyaml-1.16.pom>nexus-aliyun=
+snakeyaml-1.16.jar>nexus-aliyun=
+snakeyaml-1.16.jar>central=
+snakeyaml-1.16.pom>central=

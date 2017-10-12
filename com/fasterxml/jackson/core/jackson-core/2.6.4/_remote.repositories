@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 01 12:39:16 CST 2017
+jackson-core-2.6.4.pom>nexus-aliyun=
+jackson-core-2.6.4.jar>central=
+jackson-core-2.6.4.jar>nexus-aliyun=
+jackson-core-2.6.4.pom>central=

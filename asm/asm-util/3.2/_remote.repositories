@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Apr 09 16:06:35 CST 2017
+asm-util-3.2.jar>central=
+asm-util-3.2.pom>central=
+asm-util-3.2.pom>nexus-aliyun=
+asm-util-3.2.jar>nexus-aliyun=

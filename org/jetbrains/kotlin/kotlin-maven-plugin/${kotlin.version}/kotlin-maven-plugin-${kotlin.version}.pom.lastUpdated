@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 08 16:10:15 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1504858212894
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.jetbrains.kotlin\:kotlin-maven-plugin\:pom\:${kotlin.version} from/to spring-releases (https\://repo.spring.io/libs-release)\: Failed to transfer file\: https\://repo.spring.io/libs-release/org/jetbrains/kotlin/kotlin-maven-plugin/$%7Bkotlin.version%7D/kotlin-maven-plugin-$%7Bkotlin.version%7D.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1504858214430
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504858215190
+http\://dl.bintray.com/kotlin/kotlin-dev/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1504858213332
+https\://repo.maven.apache.org/maven2/.error=

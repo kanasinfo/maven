@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 12 15:33:28 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1497252808126
+https\://raw.githubusercontent.com/gefangshuai/maven/master/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1492613088821
+https\://raw.githubusercontent.com/gefangshuai/maven/master/.lastUpdated=1492613096470
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact log4j\:log4j\:jar\:sources\:1.2.16 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: log4j/log4j/1.2.16/log4j-1.2.16-sources.jar from central failed

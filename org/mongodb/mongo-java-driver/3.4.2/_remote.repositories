@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 07 20:24:02 CST 2017
+mongo-java-driver-3.4.2.pom>central=
+mongo-java-driver-3.4.2.pom>apache=
+mongo-java-driver-3.4.2.jar>apache=
+mongo-java-driver-3.4.2.jar>central=
+mongo-java-driver-3.4.2-javadoc.jar>apache=
+mongo-java-driver-3.4.2-sources.jar>apache=

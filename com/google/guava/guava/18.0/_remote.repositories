@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 18 15:18:26 CST 2017
+guava-18.0.jar>nexus-aliyun=
+guava-18.0.jar>central=
+guava-18.0.pom>central=
+guava-18.0.pom>nexus-aliyun=
+guava-18.0-javadoc.jar>central=
+guava-18.0-sources.jar>central=

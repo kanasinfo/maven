@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Mar 18 15:28:52 CST 2017
+spring-jdbc-4.2.1.RELEASE.jar>nexus-aliyun=
+spring-jdbc-4.2.1.RELEASE.jar>central=
+spring-jdbc-4.2.1.RELEASE.pom>central=
+spring-jdbc-4.2.1.RELEASE.pom>nexus-aliyun=

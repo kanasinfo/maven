@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 10:08:53 CST 2017
+mongo-java-driver-3.2.2-sources.jar>nexus-aliyun=
+mongo-java-driver-3.2.2-sources.jar>central=
+mongo-java-driver-3.2.2-javadoc.jar>central=
+mongo-java-driver-3.2.2.pom>nexus-aliyun=
+mongo-java-driver-3.2.2.jar>central=
+mongo-java-driver-3.2.2.jar>nexus-aliyun=
+mongo-java-driver-3.2.2.pom>central=

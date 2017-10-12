@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 09:33:30 CST 2017
+spring-webmvc-4.2.1.RELEASE.jar>nexus-aliyun=
+spring-webmvc-4.2.1.RELEASE.jar>central=
+spring-webmvc-4.2.1.RELEASE.pom>central=
+spring-webmvc-4.2.1.RELEASE-javadoc.jar>central=
+spring-webmvc-4.2.1.RELEASE.pom>nexus-aliyun=
+spring-webmvc-4.2.1.RELEASE-sources.jar>central=

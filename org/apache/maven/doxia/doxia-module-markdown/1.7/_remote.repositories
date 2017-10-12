@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 01 15:10:21 CST 2017
+doxia-module-markdown-1.7.pom>apache-plugin=
+doxia-module-markdown-1.7.jar>apache-plugin=
+doxia-module-markdown-1.7.pom>nexus-aliyun=
+doxia-module-markdown-1.7.jar>nexus-aliyun=

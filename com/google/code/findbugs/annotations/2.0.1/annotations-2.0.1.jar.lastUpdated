@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 12 15:36:38 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1497252962806
+http\://spring-roo-repository.springsource.org/release/.error=Could not transfer artifact com.google.code.findbugs\:annotations\:jar\:2.0.1 from/to spring roo repository (http\://spring-roo-repository.springsource.org/release)\: spring-roo-repository.springsource.org
+https\://dl.bintray.com/kotlin/kotlin-dev/.error=Could not transfer artifact com.google.code.findbugs\:annotations\:jar\:2.0.1 from/to kotlin (https\://dl.bintray.com/kotlin/kotlin-dev/)\: dl.bintray.com
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.code.findbugs\:annotations\:jar\:2.0.1 from/to apache (http\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+http\://www.querydsl.com/maven/.lastUpdated=1497252998688
+http\://www.querydsl.com/maven/.error=
+@default-spring\ roo\ repository-http\://spring-roo-repository.springsource.org/release/.lastUpdated=1497252992824
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.code.findbugs\:annotations\:jar\:2.0.1 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+@default-kotlin-https\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1497252957789
+@default-apache-http\://repo.maven.apache.org/maven2/.lastUpdated=1497252927779

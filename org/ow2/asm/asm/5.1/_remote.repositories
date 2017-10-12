@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 24 12:58:01 CST 2017
+asm-5.1.jar>nexus-aliyun=
+asm-5.1.jar>central=
+asm-5.1.pom>central=
+asm-5.1.pom>nexus-aliyun=

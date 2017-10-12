@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 11 12:04:33 CST 2017
+maven-invoker-2.2.jar>central=
+maven-invoker-2.2.pom>nexus-aliyun=
+maven-invoker-2.2.jar>nexus-aliyun=
+maven-invoker-2.2.pom>central=

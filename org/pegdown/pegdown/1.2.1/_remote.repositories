@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Mar 18 12:38:25 CST 2017
+pegdown-1.2.1.jar>central=
+pegdown-1.2.1.pom>central=
+pegdown-1.2.1.pom>nexus-aliyun=
+pegdown-1.2.1.jar>nexus-aliyun=

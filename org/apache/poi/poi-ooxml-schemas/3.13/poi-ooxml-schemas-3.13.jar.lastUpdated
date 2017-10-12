@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 12 19:26:36 CST 2017
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.poi\:poi-ooxml-schemas\:jar\:3.13 from/to nexus-aliyun (http\://maven.aliyun.com/nexus/content/groups/public)\: GET request of\: org/apache/poi/poi-ooxml-schemas/3.13/poi-ooxml-schemas-3.13.jar from nexus-aliyun failed
+@default-nexus-aliyun-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1489809420048
+https\://repo.maven.apache.org/maven2/.lastUpdated=1491996396119
+https\://raw.githubusercontent.com/gefangshuai/maven/master/.error=
+https\://raw.githubusercontent.com/gefangshuai/maven/master/.lastUpdated=1491996395894

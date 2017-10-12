@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 18 15:19:46 CST 2017
+jackson-databind-2.8.7.pom>nexus-aliyun=
+jackson-databind-2.8.7.jar>nexus-aliyun=
+jackson-databind-2.8.7-javadoc.jar>central=
+jackson-databind-2.8.7-sources.jar>central=
+jackson-databind-2.8.7.jar>central=
+jackson-databind-2.8.7.pom>central=
