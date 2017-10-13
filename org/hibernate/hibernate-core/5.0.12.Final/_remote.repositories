@@ -1,7 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 18 15:18:20 CST 2017
+#Fri Oct 13 00:14:24 CST 2017
 hibernate-core-5.0.12.Final.jar>central=
 hibernate-core-5.0.12.Final.pom>central=
+hibernate-core-5.0.12.Final.pom>haoch-maven-release-repository=
 hibernate-core-5.0.12.Final.pom>nexus-aliyun=
 hibernate-core-5.0.12.Final-sources.jar>central=
 hibernate-core-5.0.12.Final.jar>nexus-aliyun=
+hibernate-core-5.0.12.Final.jar>haoch-maven-release-repository=

@@ -1,9 +1,11 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 18 15:19:13 CST 2017
-slf4j-api-1.7.24-sources.jar>nexus-aliyun=
-slf4j-api-1.7.24.pom>nexus-aliyun=
+#Fri Oct 13 00:14:24 CST 2017
+slf4j-api-1.7.24-sources.jar>central=
 slf4j-api-1.7.24.jar>central=
-slf4j-api-1.7.24.jar>nexus-aliyun=
+slf4j-api-1.7.24.pom>haoch-maven-release-repository=
 slf4j-api-1.7.24.pom>central=
 slf4j-api-1.7.24-javadoc.jar>central=
-slf4j-api-1.7.24-sources.jar>central=
+slf4j-api-1.7.24.pom>nexus-aliyun=
+slf4j-api-1.7.24.jar>nexus-aliyun=
+slf4j-api-1.7.24-sources.jar>nexus-aliyun=
+slf4j-api-1.7.24.jar>haoch-maven-release-repository=

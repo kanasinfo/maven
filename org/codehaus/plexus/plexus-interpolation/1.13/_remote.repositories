@@ -1,8 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Apr 20 09:29:54 CST 2017
+#Fri Oct 13 00:14:48 CST 2017
 plexus-interpolation-1.13.pom>central=
 plexus-interpolation-1.13.pom>nexus-aliyun=
-plexus-interpolation-1.13-javadoc.jar>central=
+plexus-interpolation-1.13.pom>haoch-maven-release-repository=
 plexus-interpolation-1.13-sources.jar>central=
+plexus-interpolation-1.13-javadoc.jar>central=
 plexus-interpolation-1.13.jar>nexus-aliyun=
 plexus-interpolation-1.13.jar>central=

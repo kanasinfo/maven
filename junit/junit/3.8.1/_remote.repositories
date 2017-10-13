@@ -1,7 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Jun 01 11:25:32 CST 2017
+#Fri Oct 13 00:14:34 CST 2017
 junit-3.8.1-sources.jar>apache=
 junit-3.8.1.jar>central=
 junit-3.8.1.pom>central=
+junit-3.8.1.pom>haoch-maven-release-repository=
 junit-3.8.1.pom>nexus-aliyun=
 junit-3.8.1.jar>nexus-aliyun=

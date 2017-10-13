@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun Apr 09 16:04:34 CST 2017
+#Fri Oct 13 00:12:51 CST 2017
 spring-framework-bom-4.3.7.RELEASE.pom>central=
+spring-framework-bom-4.3.7.RELEASE.pom>haoch-maven-release-repository=
 spring-framework-bom-4.3.7.RELEASE.pom>nexus-aliyun=

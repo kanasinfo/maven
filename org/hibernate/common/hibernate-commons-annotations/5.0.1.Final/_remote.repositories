@@ -1,7 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 18 15:20:23 CST 2017
+#Fri Oct 13 00:14:24 CST 2017
+hibernate-commons-annotations-5.0.1.Final.jar>haoch-maven-release-repository=
 hibernate-commons-annotations-5.0.1.Final.pom>nexus-aliyun=
 hibernate-commons-annotations-5.0.1.Final.jar>central=
+hibernate-commons-annotations-5.0.1.Final.pom>haoch-maven-release-repository=
 hibernate-commons-annotations-5.0.1.Final-sources.jar>central=
 hibernate-commons-annotations-5.0.1.Final.jar>nexus-aliyun=
 hibernate-commons-annotations-5.0.1.Final.pom>central=

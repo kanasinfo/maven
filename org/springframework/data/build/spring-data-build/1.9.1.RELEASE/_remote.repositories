@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun Apr 09 16:04:35 CST 2017
+#Fri Oct 13 00:12:52 CST 2017
 spring-data-build-1.9.1.RELEASE.pom>nexus-aliyun=
 spring-data-build-1.9.1.RELEASE.pom>central=
+spring-data-build-1.9.1.RELEASE.pom>haoch-maven-release-repository=

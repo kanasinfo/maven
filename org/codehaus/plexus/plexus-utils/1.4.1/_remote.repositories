@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Mar 18 11:57:00 CST 2017
+#Fri Oct 13 00:14:32 CST 2017
 plexus-utils-1.4.1.pom>nexus-aliyun=
 plexus-utils-1.4.1.jar>central=
-plexus-utils-1.4.1.jar>nexus-aliyun=
 plexus-utils-1.4.1.pom>central=
+plexus-utils-1.4.1.jar>nexus-aliyun=
+plexus-utils-1.4.1.pom>haoch-maven-release-repository=

@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed May 24 10:21:10 CST 2017
+#Fri Oct 13 00:13:35 CST 2017
 assertj-parent-pom-2.1.4.pom>nexus-aliyun=
-assertj-parent-pom-2.1.4.pom>central=
 assertj-parent-pom-2.1.4.pom>apache=
+assertj-parent-pom-2.1.4.pom>central=
+assertj-parent-pom-2.1.4.pom>haoch-maven-release-repository=

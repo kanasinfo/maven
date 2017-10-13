@@ -1,7 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Apr 20 09:36:42 CST 2017
+#Fri Oct 13 00:14:24 CST 2017
+dom4j-1.6.1.pom>haoch-maven-release-repository=
 dom4j-1.6.1-sources.jar>central=
 dom4j-1.6.1.jar>central=
 dom4j-1.6.1.pom>central=
 dom4j-1.6.1.pom>nexus-aliyun=
 dom4j-1.6.1.jar>nexus-aliyun=
+dom4j-1.6.1.jar>haoch-maven-release-repository=

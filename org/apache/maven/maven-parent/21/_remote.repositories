@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Mar 18 11:12:16 CST 2017
-maven-parent-21.pom>nexus-aliyun=
+#Fri Oct 13 00:14:44 CST 2017
 maven-parent-21.pom>central=
+maven-parent-21.pom>nexus-aliyun=
+maven-parent-21.pom>haoch-maven-release-repository=

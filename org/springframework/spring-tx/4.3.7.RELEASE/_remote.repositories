@@ -1,8 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 18 15:19:30 CST 2017
-spring-tx-4.3.7.RELEASE-javadoc.jar>central=
+#Fri Oct 13 00:14:24 CST 2017
 spring-tx-4.3.7.RELEASE-sources.jar>central=
-spring-tx-4.3.7.RELEASE.pom>nexus-aliyun=
+spring-tx-4.3.7.RELEASE-javadoc.jar>central=
+spring-tx-4.3.7.RELEASE.pom>haoch-maven-release-repository=
 spring-tx-4.3.7.RELEASE.pom>central=
+spring-tx-4.3.7.RELEASE.pom>nexus-aliyun=
 spring-tx-4.3.7.RELEASE.jar>nexus-aliyun=
+spring-tx-4.3.7.RELEASE.jar>haoch-maven-release-repository=
 spring-tx-4.3.7.RELEASE.jar>central=

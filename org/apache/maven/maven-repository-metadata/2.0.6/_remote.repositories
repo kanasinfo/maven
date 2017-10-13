@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Mar 18 11:36:29 CST 2017
+#Fri Oct 13 00:14:36 CST 2017
 maven-repository-metadata-2.0.6.jar>nexus-aliyun=
 maven-repository-metadata-2.0.6.pom>central=
 maven-repository-metadata-2.0.6.pom>nexus-aliyun=
+maven-repository-metadata-2.0.6.pom>haoch-maven-release-repository=
 maven-repository-metadata-2.0.6.jar>central=

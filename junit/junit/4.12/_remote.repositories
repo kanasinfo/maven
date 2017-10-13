@@ -1,10 +1,12 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Apr 20 10:08:50 CST 2017
-junit-4.12-javadoc.jar>central=
+#Fri Oct 13 00:14:24 CST 2017
+junit-4.12.pom>haoch-maven-release-repository=
+junit-4.12.pom>nexus-aliyun=
+junit-4.12.jar>central=
+junit-4.12.pom>central=
 junit-4.12-sources.jar>nexus-aliyun=
+junit-4.12.jar>haoch-maven-release-repository=
 junit-4.12-sources.jar>central=
 junit-4.12.jar>nexus-aliyun=
-junit-4.12.jar>central=
-junit-4.12.pom>nexus-aliyun=
-junit-4.12.pom>central=
+junit-4.12-javadoc.jar>central=
 junit-4.12-javadoc.jar>nexus-aliyun=

@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Mar 18 11:36:29 CST 2017
+#Fri Oct 13 00:14:35 CST 2017
 maven-profile-2.0.6.pom>nexus-aliyun=
-maven-profile-2.0.6.jar>central=
 maven-profile-2.0.6.pom>central=
+maven-profile-2.0.6.jar>central=
+maven-profile-2.0.6.pom>haoch-maven-release-repository=
 maven-profile-2.0.6.jar>nexus-aliyun=

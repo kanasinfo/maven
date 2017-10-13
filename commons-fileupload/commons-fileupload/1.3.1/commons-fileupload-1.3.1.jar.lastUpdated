@@ -1,10 +1,11 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat May 20 15:20:25 CST 2017
+#Fri Oct 13 00:14:24 CST 2017
 http\://jolbox.com/bonecp/downloads/maven/.lastUpdated=1489369417617
-http\://nexus.fbi-china.com/repository/mlht-lib/.lastUpdated=1489369418326
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1489809420098
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1507824864012
 http\://nexus.kanasinfo.com\:9091/nexus/content/repositories/releases/.error=
+http\://nexus.kanasinfo.com\:9091/nexus/content/repositories/releases/.lastUpdated=1495264825392
+http\://jolbox.com/bonecp/downloads/maven/.error=
+http\://nexus.fbi-china.com/repository/mlht-lib/.lastUpdated=1489369418326
 https\://repo.maven.apache.org/maven2/.lastUpdated=1489372189901
 http\://nexus.fbi-china.com/repository/mlht-lib/.error=
-http\://jolbox.com/bonecp/downloads/maven/.error=
-http\://nexus.kanasinfo.com\:9091/nexus/content/repositories/releases/.lastUpdated=1495264825392
-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1489809420098

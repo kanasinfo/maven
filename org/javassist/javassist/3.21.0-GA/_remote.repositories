@@ -1,8 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 18 15:20:07 CST 2017
+#Fri Oct 13 00:14:24 CST 2017
 javassist-3.21.0-GA-javadoc.jar>central=
+javassist-3.21.0-GA.pom>haoch-maven-release-repository=
 javassist-3.21.0-GA.jar>nexus-aliyun=
 javassist-3.21.0-GA.jar>central=
 javassist-3.21.0-GA.pom>central=
+javassist-3.21.0-GA.jar>haoch-maven-release-repository=
 javassist-3.21.0-GA.pom>nexus-aliyun=
 javassist-3.21.0-GA-sources.jar>central=

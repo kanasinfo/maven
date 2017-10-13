@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Oct 13 10:57:26 CST 2017
+speedy-portal-1.0.0.pom>=
+speedy-portal-1.0.0.war>=
+speedy-portal-1.0.0-sources.jar>=

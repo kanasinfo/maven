@@ -1,10 +1,12 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed May 24 10:21:12 CST 2017
-accessors-smart-1.1.pom>nexus-aliyun=
-accessors-smart-1.1.pom>apache=
+#Fri Oct 13 00:14:24 CST 2017
 accessors-smart-1.1.jar>nexus-aliyun=
+accessors-smart-1.1.pom>apache=
+accessors-smart-1.1.jar>haoch-maven-release-repository=
+accessors-smart-1.1-sources.jar>central=
 accessors-smart-1.1.jar>central=
-accessors-smart-1.1.jar>apache=
 accessors-smart-1.1.pom>central=
 accessors-smart-1.1-javadoc.jar>central=
-accessors-smart-1.1-sources.jar>central=
+accessors-smart-1.1.pom>nexus-aliyun=
+accessors-smart-1.1.jar>apache=
+accessors-smart-1.1.pom>haoch-maven-release-repository=

@@ -1,8 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 18 15:19:09 CST 2017
-commons-collections-3.2.2.jar>central=
-commons-collections-3.2.2.pom>nexus-aliyun=
+#Fri Oct 13 00:14:24 CST 2017
+commons-collections-3.2.2.jar>haoch-maven-release-repository=
 commons-collections-3.2.2-sources.jar>central=
-commons-collections-3.2.2-javadoc.jar>central=
+commons-collections-3.2.2.pom>nexus-aliyun=
+commons-collections-3.2.2.jar>central=
+commons-collections-3.2.2.pom>haoch-maven-release-repository=
 commons-collections-3.2.2.pom>central=
+commons-collections-3.2.2-javadoc.jar>central=
 commons-collections-3.2.2.jar>nexus-aliyun=

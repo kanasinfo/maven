@@ -1,10 +1,12 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 18 15:20:33 CST 2017
-json-simple-1.1.1.pom>apache=
-json-simple-1.1.1.jar>central=
+#Fri Oct 13 00:14:24 CST 2017
 json-simple-1.1.1-sources.jar>central=
-json-simple-1.1.1.pom>central=
-json-simple-1.1.1.jar>apache=
+json-simple-1.1.1.pom>haoch-maven-release-repository=
+json-simple-1.1.1.pom>apache=
 json-simple-1.1.1-javadoc.jar>central=
 json-simple-1.1.1.pom>nexus-aliyun=
+json-simple-1.1.1.jar>central=
+json-simple-1.1.1.pom>central=
 json-simple-1.1.1.jar>nexus-aliyun=
+json-simple-1.1.1.jar>haoch-maven-release-repository=
+json-simple-1.1.1.jar>apache=
