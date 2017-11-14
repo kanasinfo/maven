@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.hswebframework.web</groupId>
+  <artifactId>hsweb-authorization-api</artifactId>
+  <version>3.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20171024.053335</timestamp>
+      <buildNumber>27</buildNumber>
+    </snapshot>
+    <lastUpdated>20171024053335</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>3.0-20171024.053335-27</value>
+        <updated>20171024053335</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.0-20171024.053335-27</value>
+        <updated>20171024053335</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>3.0-20171024.053335-27</value>
+        <updated>20171024053335</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

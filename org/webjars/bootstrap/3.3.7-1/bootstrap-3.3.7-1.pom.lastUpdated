@@ -1,8 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 23 15:50:21 CST 2017
-http\://dl.bintray.com/kotlin/kotlin-dev/.error=
-@default-apache-http\://repo.maven.apache.org/maven2/.lastUpdated=1503474544973
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.webjars\:bootstrap\:pom\:3.3.7-1 from/to apache (http\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:80 [repo.maven.apache.org/151.101.52.215] failed\: Operation timed out (Connection timed out)
+#Sat Nov 04 23:21:28 CST 2017
 @default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1503474621567
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1509808888091
 http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1503474545649
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1509808887176
+http\://dl.bintray.com/kotlin/kotlin-dev/.error=
 https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.webjars\:bootstrap\:pom\:3.3.7-1 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.52.215] failed\: Operation timed out (Connection timed out)

@@ -1,6 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Sep 07 20:24:00 CST 2017
-http\://repo.maven.apache.org/maven2/.lastUpdated=1497237950632
-https\://repo.maven.apache.org/maven2/.lastUpdated=1504787040250
+#Fri Oct 27 14:56:32 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1509087389952
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.springframework.data\:spring-data-mongodb\:pom\:${spring-data-mongodb.version} from/to spring-releases (https\://repo.spring.io/libs-release)\: Failed to transfer file\: https\://repo.spring.io/libs-release/org/springframework/data/spring-data-mongodb/$%7Bspring-data-mongodb.version%7D/spring-data-mongodb-$%7Bspring-data-mongodb.version%7D.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1509087391859
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1509087392785
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1509087389113
 http\://repo.maven.apache.org/maven2/.error=
 https\://repo.maven.apache.org/maven2/.error=

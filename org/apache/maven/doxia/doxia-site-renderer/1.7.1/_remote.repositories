@@ -1,6 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Jun 01 15:10:21 CST 2017
+#Fri Oct 27 21:55:36 CST 2017
 doxia-site-renderer-1.7.1.pom>nexus-aliyun=
 doxia-site-renderer-1.7.1.pom>apache-plugin=
 doxia-site-renderer-1.7.1.jar>apache-plugin=
 doxia-site-renderer-1.7.1.jar>nexus-aliyun=
+doxia-site-renderer-1.7.1.jar>central=
+doxia-site-renderer-1.7.1.pom>central=

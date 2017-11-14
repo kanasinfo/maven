@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Oct 27 14:46:21 CST 2017
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1509086779441
+https\://repo.spring.io/libs-release/.error=
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1509086778896
+http\://nexus.kanasinfo.com\:9091/nexus/content/repositories/releases/.error=Could not transfer artifact io.github.gefangshuai\:speedy-ext-webmvc\:pom\:1.0.1 from/to releases (http\://nexus.kanasinfo.com\:9091/nexus/content/repositories/releases)\: Connect to nexus.kanasinfo.com\:9091 [nexus.kanasinfo.com/101.200.34.85] failed\: Connection refused (Connection refused)
+http\://repo.maven.apache.org/maven2/.error=
+https\://repo.spring.io/libs-release/.lastUpdated=1509086780134
+https\://repo.maven.apache.org/maven2/.lastUpdated=1509086781216
+https\://repo.maven.apache.org/maven2/.error=
+14399ca34b73858bd6485939a9872a7cea402a07@default-releases-http\://nexus.kanasinfo.com\:9091/nexus/content/repositories/releases/.lastUpdated=1509086663828

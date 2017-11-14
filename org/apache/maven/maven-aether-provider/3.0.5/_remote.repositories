@@ -1,6 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jun 12 10:26:11 CST 2017
+#Fri Oct 27 21:55:30 CST 2017
 maven-aether-provider-3.0.5.jar>nexus-aliyun=
 maven-aether-provider-3.0.5.pom>apache-plugin=
 maven-aether-provider-3.0.5.jar>apache-plugin=
+maven-aether-provider-3.0.5.jar>central=
 maven-aether-provider-3.0.5.pom>nexus-aliyun=
+maven-aether-provider-3.0.5.pom>central=
