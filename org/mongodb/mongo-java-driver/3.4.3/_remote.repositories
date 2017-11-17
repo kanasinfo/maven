@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Nov 04 23:40:59 CST 2017
+#Fri Nov 17 16:18:21 CST 2017
 mongo-java-driver-3.4.3.jar>apache=
 mongo-java-driver-3.4.3-javadoc.jar>apache=
 mongo-java-driver-3.4.3-sources.jar>apache=
+mongo-java-driver-3.4.3.pom>central=
 mongo-java-driver-3.4.3.pom>apache=
