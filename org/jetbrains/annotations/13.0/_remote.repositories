@@ -1,5 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Oct 13 00:14:24 CST 2017
+#Fri Nov 17 16:28:25 CST 2017
 annotations-13.0.jar>nexus-aliyun=
 annotations-13.0.pom>central=
 annotations-13.0.pom>apache=
@@ -11,6 +11,8 @@ annotations-13.0-javadoc.jar>nexus-aliyun=
 annotations-13.0.jar>apache=
 annotations-13.0-sources.jar>apache=
 annotations-13.0.jar>apache-plugin=
+annotations-13.0-sources.jar>central=
+annotations-13.0-javadoc.jar>central=
 annotations-13.0.pom>haoch-maven-release-repository=
 annotations-13.0-sources.jar>nexus-aliyun=
 annotations-13.0.pom>nexus-aliyun=

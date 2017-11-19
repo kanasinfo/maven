@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Nov 04 20:51:36 CST 2017
+#Fri Nov 17 16:26:58 CST 2017
 jboss-logging-3.3.1.Final.jar>central=
 jboss-logging-3.3.1.Final.pom>central=
+jboss-logging-3.3.1.Final-sources.jar>central=
+jboss-logging-3.3.1.Final-javadoc.jar>central=

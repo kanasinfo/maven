@@ -1,5 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Oct 13 11:02:35 CST 2017
+#Fri Nov 17 16:29:38 CST 2017
 https\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1497247555300
 http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1507863754111
 http\://repo.maven.apache.org/maven2/.lastUpdated=1507863753496
@@ -7,8 +7,8 @@ https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=150786375
 http\://nexus.kanasinfo.com\:9091/nexus/content/repositories/releases/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.7 from/to releases (http\://nexus.kanasinfo.com\:9091/nexus/content/repositories/releases)\: Failed to connect to nexus.kanasinfo.com/101.200.34.85\:9091
 https\://dl.bintray.com/kotlin/kotlin-dev/.error=
 http\://repo.maven.apache.org/maven2/.error=
-http\://dl.bintray.com/kotlin/kotlin-dev/.error=
 https\://repo.spring.io/libs-release/.lastUpdated=1495360364091
-https\://repo.maven.apache.org/maven2/.lastUpdated=1507739823080
+http\://dl.bintray.com/kotlin/kotlin-dev/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1510907378828
 https\://repo.maven.apache.org/maven2/.error=
 14399ca34b73858bd6485939a9872a7cea402a07@default-releases-http\://nexus.kanasinfo.com\:9091/nexus/content/repositories/releases/.lastUpdated=1495360363135

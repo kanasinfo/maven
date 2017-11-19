@@ -1,6 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Nov 17 15:45:50 CST 2017
+#Fri Nov 17 16:27:36 CST 2017
 spring-jdbc-4.3.12.RELEASE.jar>central=
 spring-jdbc-4.3.12.RELEASE.pom>apache=
+spring-jdbc-4.3.12.RELEASE-javadoc.jar>central=
 spring-jdbc-4.3.12.RELEASE.pom>central=
+spring-jdbc-4.3.12.RELEASE-sources.jar>central=
 spring-jdbc-4.3.12.RELEASE.jar>apache=

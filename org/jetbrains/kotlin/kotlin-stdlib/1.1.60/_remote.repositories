@@ -1,10 +1,12 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Nov 17 15:46:11 CST 2017
-kotlin-stdlib-1.1.60-sources.jar>apache=
-kotlin-stdlib-1.1.60.jar>apache=
-kotlin-stdlib-1.1.60.jar>central=
-kotlin-stdlib-1.1.60.pom>apache-plugin=
-kotlin-stdlib-1.1.60.pom>central=
-kotlin-stdlib-1.1.60.jar>apache-plugin=
+#Fri Nov 17 16:28:06 CST 2017
 kotlin-stdlib-1.1.60-javadoc.jar>apache=
 kotlin-stdlib-1.1.60.pom>apache=
+kotlin-stdlib-1.1.60-sources.jar>central=
+kotlin-stdlib-1.1.60-sources.jar>apache=
+kotlin-stdlib-1.1.60.jar>central=
+kotlin-stdlib-1.1.60.pom>central=
+kotlin-stdlib-1.1.60.pom>apache-plugin=
+kotlin-stdlib-1.1.60.jar>apache=
+kotlin-stdlib-1.1.60.jar>apache-plugin=
+kotlin-stdlib-1.1.60-javadoc.jar>central=

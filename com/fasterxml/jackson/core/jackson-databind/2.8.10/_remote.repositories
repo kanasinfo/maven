@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Nov 04 20:51:36 CST 2017
+#Fri Nov 17 16:28:24 CST 2017
 jackson-databind-2.8.10.pom>central=
 jackson-databind-2.8.10.jar>central=
+jackson-databind-2.8.10-javadoc.jar>central=
+jackson-databind-2.8.10-sources.jar>central=

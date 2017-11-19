@@ -1,5 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Nov 14 10:31:35 CST 2017
+#Fri Nov 17 16:27:54 CST 2017
 https\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1497247543355
 https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
 http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1510626694437
@@ -9,6 +9,6 @@ https\://dl.bintray.com/kotlin/kotlin-dev/.error=
 http\://repo.maven.apache.org/maven2/.error=
 https\://raw.githubusercontent.com/gefangshuai/maven/master/.lastUpdated=1492652203044
 http\://dl.bintray.com/kotlin/kotlin-dev/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1510626695720
-https\://raw.githubusercontent.com/gefangshuai/maven/master/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1510907274580
 https\://repo.maven.apache.org/maven2/.error=
+https\://raw.githubusercontent.com/gefangshuai/maven/master/.error=

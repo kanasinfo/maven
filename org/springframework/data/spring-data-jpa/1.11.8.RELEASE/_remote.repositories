@@ -1,8 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Nov 17 15:45:50 CST 2017
+#Fri Nov 17 16:26:31 CST 2017
 spring-data-jpa-1.11.8.RELEASE.jar>central=
 spring-data-jpa-1.11.8.RELEASE.pom>central=
+spring-data-jpa-1.11.8.RELEASE-javadoc.jar>central=
 spring-data-jpa-1.11.8.RELEASE.pom>apache=
+spring-data-jpa-1.11.8.RELEASE-sources.jar>central=
 spring-data-jpa-1.11.8.RELEASE-javadoc.jar>apache=
 spring-data-jpa-1.11.8.RELEASE.jar>apache=
 spring-data-jpa-1.11.8.RELEASE-sources.jar>apache=

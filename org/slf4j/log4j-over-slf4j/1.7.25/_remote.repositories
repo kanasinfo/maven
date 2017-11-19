@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Nov 04 20:51:35 CST 2017
+#Fri Nov 17 16:29:48 CST 2017
 log4j-over-slf4j-1.7.25.pom>central=
+log4j-over-slf4j-1.7.25-javadoc.jar>central=
+log4j-over-slf4j-1.7.25-sources.jar>central=
 log4j-over-slf4j-1.7.25.jar>central=
