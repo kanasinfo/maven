@@ -1,10 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Nov 14 16:27:05 CST 2017
-http\://repo.maven.apache.org/maven2/.lastUpdated=1510648022937
-https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1510648025073
-http\://dl.bintray.com/kotlin/kotlin-dev/.error=
-https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1510648024266
-http\://repo.maven.apache.org/maven2/.error=
-http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1510648023368
-https\://repo.maven.apache.org/maven2/.error=
+#Sun Dec 03 13:42:54 CST 2017
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=Could not transfer artifact com.kanasinfo\:speedy-ext-webmvc\:jar\:javadoc\:1.0.2 from/to haoch-maven-release-repository (https\://raw.githubusercontent.com/kanasinfo/maven/master/)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-bintray-kotlin-kotlin-dev-http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1512279774559
+http\://dl.bintray.com/kotlin/kotlin-dev/.error=Could not transfer artifact com.kanasinfo\:speedy-ext-webmvc\:jar\:javadoc\:1.0.2 from/to bintray-kotlin-kotlin-dev (http\://dl.bintray.com/kotlin/kotlin-dev)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-apache-http\://repo.maven.apache.org/maven2/.lastUpdated=1512279774455
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.kanasinfo\:speedy-ext-webmvc\:jar\:javadoc\:1.0.2 from/to apache (http\://repo.maven.apache.org/maven2)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1512279774767
+@default-haoch-maven-release-repository-https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1512279774662
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.kanasinfo\:speedy-ext-webmvc\:jar\:javadoc\:1.0.2 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)

@@ -1,12 +1,12 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Nov 17 16:26:42 CST 2017
+#Sun Dec 03 13:42:48 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1512279768953
 https\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1497247541752
-https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
-http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1510626687027
-http\://repo.maven.apache.org/maven2/.lastUpdated=1510626686345
-https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1510626687466
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=Could not transfer artifact org.jboss\:jandex\:jar\:javadoc\:2.0.0.Final from/to haoch-maven-release-repository (https\://raw.githubusercontent.com/kanasinfo/maven/master/)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-haoch-maven-release-repository-https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1512279768849
 https\://dl.bintray.com/kotlin/kotlin-dev/.error=
-http\://repo.maven.apache.org/maven2/.error=
-http\://dl.bintray.com/kotlin/kotlin-dev/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1510907202143
-https\://repo.maven.apache.org/maven2/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jboss\:jandex\:jar\:javadoc\:2.0.0.Final from/to apache (http\://repo.maven.apache.org/maven2)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+http\://dl.bintray.com/kotlin/kotlin-dev/.error=Could not transfer artifact org.jboss\:jandex\:jar\:javadoc\:2.0.0.Final from/to bintray-kotlin-kotlin-dev (http\://dl.bintray.com/kotlin/kotlin-dev)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-bintray-kotlin-kotlin-dev-http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1512279768745
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jboss\:jandex\:jar\:javadoc\:2.0.0.Final from/to central (https\://repo.maven.apache.org/maven2)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-apache-http\://repo.maven.apache.org/maven2/.lastUpdated=1512279768639

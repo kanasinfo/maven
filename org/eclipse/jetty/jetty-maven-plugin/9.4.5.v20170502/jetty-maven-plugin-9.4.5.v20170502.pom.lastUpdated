@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Dec 03 14:08:28 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1512281308483
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.eclipse.jetty\:jetty-maven-plugin\:pom\:9.4.5.v20170502 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)

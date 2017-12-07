@@ -1,12 +1,12 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Nov 17 16:27:10 CST 2017
+#Sun Dec 03 13:42:47 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1512279767642
 https\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1497247537896
-https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
-http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1510626679295
-http\://repo.maven.apache.org/maven2/.lastUpdated=1510626678569
-https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1510626679861
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:jar\:javadoc\:5.0.12.Final from/to haoch-maven-release-repository (https\://raw.githubusercontent.com/kanasinfo/maven/master/)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-haoch-maven-release-repository-https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1512279767538
 https\://dl.bintray.com/kotlin/kotlin-dev/.error=
-http\://repo.maven.apache.org/maven2/.error=
-http\://dl.bintray.com/kotlin/kotlin-dev/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1510907230255
-https\://repo.maven.apache.org/maven2/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:jar\:javadoc\:5.0.12.Final from/to apache (http\://repo.maven.apache.org/maven2)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+http\://dl.bintray.com/kotlin/kotlin-dev/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:jar\:javadoc\:5.0.12.Final from/to bintray-kotlin-kotlin-dev (http\://dl.bintray.com/kotlin/kotlin-dev)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-bintray-kotlin-kotlin-dev-http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1512279767434
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:jar\:javadoc\:5.0.12.Final from/to central (https\://repo.maven.apache.org/maven2)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-apache-http\://repo.maven.apache.org/maven2/.lastUpdated=1512279767321

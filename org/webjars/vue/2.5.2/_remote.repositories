@@ -1,5 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Nov 04 23:31:21 CST 2017
+#Sat Dec 02 13:10:14 CST 2017
 vue-2.5.2-javadoc.jar>apache=
 vue-2.5.2.jar>apache=
+vue-2.5.2.jar>central=
+vue-2.5.2.pom>central=
 vue-2.5.2.pom>apache=

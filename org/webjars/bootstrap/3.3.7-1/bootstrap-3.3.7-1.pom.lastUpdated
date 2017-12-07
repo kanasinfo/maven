@@ -1,9 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Nov 04 23:21:28 CST 2017
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1503474621567
-https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
+#Sat Dec 02 13:10:09 CST 2017
 http\://repo.maven.apache.org/maven2/.lastUpdated=1509808888091
-http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1503474545649
-https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1509808887176
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1512191409247
 http\://dl.bintray.com/kotlin/kotlin-dev/.error=
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.webjars\:bootstrap\:pom\:3.3.7-1 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.52.215] failed\: Operation timed out (Connection timed out)
+https\://raw.githubusercontent.com/kanasinfo/maven/master/.lastUpdated=1509808887176
+http\://dl.bintray.com/kotlin/kotlin-dev/.lastUpdated=1503474545649

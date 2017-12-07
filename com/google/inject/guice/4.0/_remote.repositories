@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Dec 03 14:28:32 CST 2017
+guice-4.0.pom>apache-central=
+guice-4.0.pom>central=
+guice-4.0-no_aop.jar>apache-central=
+guice-4.0-no_aop.jar>central=

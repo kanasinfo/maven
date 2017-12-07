@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun Nov 19 22:09:03 CST 2017
-https\://repo.maven.apache.org/maven2/.lastUpdated=1511100543608
-https\://repo.maven.apache.org/maven2/.error=
+#Sun Dec 03 15:13:46 CST 2017
+http\://central.maven.org/maven2/.error=Could not transfer artifact javax.servlet\:servlet-api\:pom\:3.0.1 from/to apache-central (http\://central.maven.org/maven2/)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1512285226532
+@default-apache-central-http\://central.maven.org/maven2/.lastUpdated=1512285226420
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.servlet\:servlet-api\:pom\:3.0.1 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)

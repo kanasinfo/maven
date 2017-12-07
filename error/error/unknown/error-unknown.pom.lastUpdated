@@ -1,8 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Nov 17 15:51:40 CST 2017
+#Sun Dec 03 14:21:52 CST 2017
 http\://repo.maven.apache.org/maven2/.lastUpdated=1495593050975
 http\://maven.aliyun.com/nexus/content/groups/public/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1510905100905
 http\://repo.maven.apache.org/maven2/.error=
+http\://central.maven.org/maven2/.error=Could not transfer artifact error\:error\:pom\:unknown from/to apache-central (http\://central.maven.org/maven2/)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1512282112860
+@default-apache-central-http\://central.maven.org/maven2/.lastUpdated=1512282112750
 http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1491724566935
-https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact error\:error\:pom\:unknown from/to central (https\://repo.maven.apache.org/maven2)\: Connect to 127.0.0.1\:8888 [/127.0.0.1] failed\: Connection refused (Connection refused)
