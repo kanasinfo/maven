@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 29 16:34:37 CST 2017
+#Mon Dec 11 12:46:14 CST 2017
 kotlin-maven-plugin-1.2.0.pom>apache-plugin=
 kotlin-maven-plugin-1.2.0.jar>apache-plugin=
+kotlin-maven-plugin-1.2.0.jar>central=
+kotlin-maven-plugin-1.2.0.pom>central=
