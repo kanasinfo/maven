@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 14:02:08 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1514354528593
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.springframework\:spring-beans\:pom\:4. from/to apache-central (http\://central.maven.org/maven2/)\: Connect to central.maven.org\:80 [central.maven.org/151.101.196.209] failed\: Operation timed out (Connection timed out)
+@default-apache-central-http\://central.maven.org/maven2/.lastUpdated=1514354527262
+https\://repo.maven.apache.org/maven2/.error=

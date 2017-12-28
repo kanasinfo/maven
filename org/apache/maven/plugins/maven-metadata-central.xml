@@ -217,9 +217,24 @@
       <artifactId>maven-javadoc-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Maven JDeprScan Plugin</name>
+      <prefix>jdeprscan</prefix>
+      <artifactId>maven-jdeprscan-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Maven JDeps Plugin</name>
       <prefix>jdeps</prefix>
       <artifactId>maven-jdeps-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Maven JLink Plugin</name>
+      <prefix>jlink</prefix>
+      <artifactId>maven-jlink-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Maven JMod Plugin</name>
+      <prefix>jmod</prefix>
+      <artifactId>maven-jmod-plugin</artifactId>
     </plugin>
     <plugin>
       <name>Maven JXR Plugin</name>
