@@ -1,0 +1,62 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>SpeedyFramework</artifactId>
+        <groupId>com.kanasinfo</groupId>
+        <version>1.0.5</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>speedy-ext-shiro</artifactId>
+    <packaging>jar</packaging>
+
+    <name>speedy-ext-shiro</name>
+    <url>http://maven.apache.org</url>
+
+    <properties>
+        <shiro.version>1.4.0</shiro.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.kanasinfo</groupId>
+            <artifactId>speedy-base</artifactId>
+            <version>1.0.5</version>
+            <type>pom</type>
+        </dependency>
+        <dependency>
+            <groupId>com.kanasinfo</groupId>
+            <artifactId>speedy-ext-persistence</artifactId>
+            <version>1.0.5</version>
+        </dependency>
+
+        <!--shiro-->
+
+
+        <!-- security -->
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-core</artifactId>
+            <version>${shiro.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-spring</artifactId>
+            <version>${shiro.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-ehcache</artifactId>
+            <version>${shiro.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-web</artifactId>
+            <version>${shiro.version}</version>
+        </dependency>
+    </dependencies>
+    <build>
+
+    </build>
+</project>
